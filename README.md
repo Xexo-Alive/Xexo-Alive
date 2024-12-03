@@ -27,7 +27,7 @@ Hi! I am an enthusiastic student passionate about **Data Science** and **AI**, a
 ---
 
 ## 🧰 Tools and Technologies
-- **Programming:** Python, R, C++, SQL
+- **Programming:** Python, R, C, SQL
 - **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow
 - **Tools:** Jupyter Notebook, VS Code, Git
 
